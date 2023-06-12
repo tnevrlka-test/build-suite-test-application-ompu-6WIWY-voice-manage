@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-hello-world-lewl
     app.kubernetes.io/part-of: build-suite-test-application-ompu
-  name: devfile-sample-hello-worlcxno
+  name: devfile-sample-hello-worl2bsq
 spec:
   port:
     targetPort: 8081
