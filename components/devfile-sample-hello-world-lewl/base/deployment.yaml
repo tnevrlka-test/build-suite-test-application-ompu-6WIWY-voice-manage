@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: devfile-sample-hello-world-lewl
     spec:
       containers:
-      - image: hello-world:latest
+      - image: quay.io/tnevrlka-test/build-e2e-tgew-tenant/build-suite-test-application-ompu/devfile-sample-hello-world-lewl@sha256:8b6af74fc6ef2727379d672e83118b29a778ab60cd58fe18b02c1cff9c0682a4
         name: my-nginx
         ports:
         - containerPort: 8080
